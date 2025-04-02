@@ -1,54 +1,29 @@
-<header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+# 自述文件 #
+###快连VPN - 永远能连上的梯子
+此自述文件通常会记录启动和运行应用程序所需的所有步骤。
+** :earth_africa: 稳定运行已经超过2000天！**
+### 这个存储库是用来做什么的？###
+** :lock: 消耗任何信息即可注册！**
+* 快速摘要
+* 版本
+* [学习 Markdown](https://bitbucket.org/tutorials/markdowndemo)
+** :rocket: 无需配置，3秒内连接！**
+### 如何设置？###
+** :man: 已经协助3000W+用户解锁全球网络！**
+* 设置摘要
+* 配置
+* 依赖项
+* 数据库配置
+* 如何运行测试
+* 部署说明
+----
+### 点击右上角在浏览器中打开下载
+#### :arrow_double_down: [iOS 大陆用户下载教程](https://appshare.onelink.me/7uiT/1c9f9287)
+#### :arrow_double_down: [iOS 海外商店版本](https://appshare.onelink.me/7uiT/33e7470c)
+#### :arrow_double_down: [Android 版本.APK](https://appshare.onelink.me/7uiT/fa80bb40)
+#### :arrow_double_down: [Windows 版本.exe](https://appshare.onelink.me/7uiT/cd934bda)
+#### :arrow_double_down: [macOS 版本.dmg](https://appshare.onelink.me/7uiT/1ed3d477)
+#### :arrow_double_down: [官方网站链接](https://appshare.onelink.me/7uiT/a60e7e13)
+----
+###免费福利
+** :礼物：下载快连VPN，免费领人力资源会员！**
