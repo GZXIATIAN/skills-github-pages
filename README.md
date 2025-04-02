@@ -1,22 +1,20 @@
-### 快连VPN - 永远能连上的梯子
-**:earth_africa: 稳定运行已经超2000天！**
+### 摸鱼大学 - 网上冲浪天花板
+**:earth_africa: 每天更新！**
 
-**:lock: 无需任何信息即可注册！**
+**:lock: 从未间断！**
 
-**:rocket: 无需配置，3秒内连接！**
+**:rocket: 点击下方蓝色字体👇🏾👇**
 
-**:man: 已经助力2000W+用户解锁全球网络！**
+**:man: 进入频道**
 
 ---
-### 点击右上角在浏览器打开下载
-#### :arrow_double_down: [iOS 大陆用户下载教程](https://appshare.onelink.me/7uiT/1c9f9287)
-#### :arrow_double_down: [iOS 海外商店版本链接](https://appshare.onelink.me/7uiT/33e7470c)
-#### :arrow_double_down: [Android 版本.APK](https://appshare.onelink.me/7uiT/fa80bb40)
-#### :arrow_double_down: [Windows 版本.exe](https://appshare.onelink.me/7uiT/cd934bda)
-#### :arrow_double_down: [macOS 版本.dmg](https://appshare.onelink.me/7uiT/1ed3d477)
-#### :arrow_double_down: [官方网站链接](https://appshare.onelink.me/7uiT/a60e7e13)
+### 欢迎选择频道
+#### :arrow_double_down: [全网高质量热门恰瓜群🍉](http://099f.fiuvx.cn/c/#/?p=pqrwlk)
+#### :arrow_double_down: [精选网红私密高级群😍](http://stm63fqsu.hn-bkt.clouddn.com/guangzhou-cos.htm?c=aHR0cDovL3F1bnYxLmxhbmRvdS5jYy90L1E2ZGdTRFRBLmh0bWw)
+#### :arrow_double_down: [单身男女交友群❤](http://dahuong.kvamhcr.cn/app/index.php?i=2&c=entry&fuid=6e7MjY2MzQz&auid=6e7MjY2MzQz&do=index&m=vp_ph)
+#### :arrow_double_down: [爽剧日更😍](https://pan.quark.cn/s/5d66a3ba1aab)
 ---
-### 免费福利
-**:gift: 下载快连VPN，免费领会员！**
+### 福利多多
+**:gift: 进群视频内容种类覆盖超多**
 
-**:gift: 填写朋友 ID，还能额外领福利！**
+**:gift: 一次付费终身观看！**
