@@ -1,3 +1,4 @@
+
 ### 摸鱼大学 - 网上冲浪天花板
 **:earth_africa: 每天更新，从未间断！**
 
@@ -18,5 +19,4 @@
 **:gift: 一次付费终身观看！**
 
 
-https://github.com/user-attachments/assets/f05e5238-d4b9-4d45-b7f4-e11fc61e33bc
 
